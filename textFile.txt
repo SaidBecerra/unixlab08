@@ -9,5 +9,8 @@ Line 8
 Line 9
 Line 10
 Muahaha im changing something in textFile.txt
+<<<<<<< HEAD
 causing conflict again
 fuck this shit
+=======
+>>>>>>> parent of 6d937e7 (my teammates retarted)
